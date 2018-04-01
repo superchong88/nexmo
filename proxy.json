@@ -1,0 +1,20 @@
+
+[
+  {
+    "action": "talk",
+    "text": "Please wait while we connect you"
+  },
+  {
+    "action": "connect",
+    "eventUrl": ["http://requestbin.fullcontact.com/1fra1ne1"],
+    "timeout": "45",
+    "from": "6531388646",
+    "endpoint": [
+      {
+        "type": "phone",
+        "number": "6593845256"
+
+      }
+    ]
+  }
+]
